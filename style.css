@@ -781,6 +781,8 @@
 }
 
 .news-1 div {
+    display: flex;
+    align-items: end;
     width: 33rem;
     height: 18rem;
     background-image: url(Assets/news-1.jpg);
@@ -792,7 +794,7 @@
     position: absolute;
     background: #f3a90b;
     opacity: 1;
-    margin-top: 13.2rem;
+    margin-bottom: 0 !important;
 }
 
 .news-1 div p span {

@@ -1011,6 +1011,7 @@
 }
 
 .footer-container>section ul li {
+    margin-left: 0 !important;
     margin-bottom: 1rem;
     line-height: 1.5rem;
     color: var(--para-color);
